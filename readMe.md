@@ -12,7 +12,7 @@ Starting with Home Assistant 2023.1 you are able to use the Google Assistant SDK
 
 # Assistant Relay v3! 
 
-> Please visit [https://assistantrelay.com/](https://assistantrelay.com) for documentation
+> Please visit [https://greghesp.github.io/assistant-relay/](https://greghesp.github.io/assistant-relay/) for documentation
 
 Join the [Facebook Group](https://www.facebook.com/groups/621761788536765)!
 
